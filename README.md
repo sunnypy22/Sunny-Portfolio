@@ -1,135 +1,116 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Sunny - Python Developer 2025–2026" width="800"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Sunny+-+Python+Developer;Data+Engineering;Data+Science;DSA;System+Design;System+Architect" alt="Header" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sunny</h1>
 
 <p align="center">
-  <strong>Python Developer</strong> • Backend • Data • Automation • 
+  <strong>7+ years of hands-on Python experience</strong> • Building scalable systems, data pipelines, secure applications & modern architectures
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:sunny.python.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sunny-patel-6a827a201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sunnypatel834798@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=flat-square&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-Advanced-1E90FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pandas_&_NumPy-Data%20Analysis-150458?style=flat-square&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Testing-pytest-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Asyncio-Advanced-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Data%20Engineering-Advanced-1E90FF?style=flat-square" alt="Data Engineering"/>
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kafka%20%7C%20Redis-Event%20Streaming-red?style=flat-square" alt="Kafka Redis"/>
+  <img src="https://img.shields.io/badge/System%20Design-Architecture-blueviolet?style=flat-square" alt="System Design"/>
 </p>
 
 ---
 
-## 🌱 My Python Learning & Growth Journey (2024–2026)
+## 🛠️ What I Build & Care About
 
-I believe in **structured learning + daily practice + real projects**.  
-Here's the complete roadmap I followed and openly share:
+I design and implement **reliable**, **performant**, and **maintainable** systems using Python.  
+My focus areas include:
 
-| # | Repository                                      | What it contains                                      | Purpose / Value for me & others                          | Stars / Activity |
-|---|-------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------|------------------|
-| 1 | [Python-Learning-Path](https://github.com/sunny/Python-Learning-Path)          | Theory + examples + exercises + quizzes (Beginner → Advanced) | Complete structured self-study material from zero to advanced | ★★★★☆ |
-| 2 | [Python-Mini-Projects](https://github.com/sunny/Python-Mini-Projects)          | 20+ small-to-medium projects applying each concept    | Daily hands-on practice, topic reinforcement               | ★★★★☆ |
-| 3 | [Python-Real-World-Projects](https://github.com/sunny/Python-Real-World-Projects) | Hub + descriptions of portfolio-grade applications    | Showcases real-world architecture & tech stack decisions   | ★★★☆☆ |
-| 4 | [Python-Interview-Preparation](https://github.com/sunny/Python-Interview-Preparation) | Theory Q&A + coding challenges + patterns + mock interviews | Serious job preparation & interview confidence             | ★★★★☆ |
+- Backend APIs & microservices  
+- Data pipelines & ETL/ELT workflows  
+- Event-driven architecture  
+- Secure Python applications  
+- Cloud-native Python development  
+- System design & scalable architecture  
 
-All repositories are **open-source** — feel free to fork, star ⭐, use for learning, or contribute!
+---
+---
+
+## 🌱 My Python & Engineering Journey
+
+This repository is my **central portfolio hub**.  
+It links to dedicated repositories covering everything from fundamentals → senior-level architecture, security, data pipelines, cloud, and system design.
+
+All repositories are open-source — feel free to ⭐, fork, learn from, or contribute!
+
+### 📚 Main Learning & Project Repositories
+
+| # | Topic | Focus Areas | What's Inside | Repository Link |
+|---|-------|-------------|---------------|-----------------|
+| 1 | Core Python | Zero to Hero • Advanced Python • Best Practices | Syntax → Metaclasses • Decorators • Asyncio • Profiling • Packaging • Type Hints | [sunny-python-core](https://github.com/YOUR_USERNAME/sunny-python-core) |
+| 2 | Python Security | Secure Coding • Web & API Security | Input validation • JWT/OAuth • cryptography • Bandit/Safety • FastAPI/Django security | [sunny-python-security](https://github.com/YOUR_USERNAME/sunny-python-security) |
+| 3 | Data Science (No ML) | Data Wrangling • Analysis • Visualization | Pandas/NumPy • Time Series • Dask • Streamlit/Dash • ETL scripts • Ethics notes | [sunny-data-science-python](https://github.com/YOUR_USERNAME/sunny-data-science-python) |
+| 4 | Data Engineering | Scalable Pipelines • Big Data • Orchestration | PySpark • Airflow/Prefect • Kafka • Dask/Ray • Parquet • Data Quality • Monitoring | [sunny-data-engineering](https://github.com/YOUR_USERNAME/sunny-data-engineering) |
+| 5 | Data Structures & Algorithms | Python DSA • Problem Solving | Arrays → Graphs → DP → Heaps • Tries • LeetCode-style solutions • Complexity analysis | [sunny-dsa-python](https://github.com/YOUR_USERNAME/sunny-dsa-python) |
+| 6 | Cloud with Python | AWS / GCP / Azure SDKs | boto3 • google-cloud • azure-sdk • Serverless • IaC • Cost optimization • Multi-cloud | [sunny-python-cloud](https://github.com/YOUR_USERNAME/sunny-python-cloud) |
+| 7 | Redis | Caching • Queues • Pub/Sub • Scaling | redis-py • Patterns • Lua scripts • Clustering • FastAPI/ Django integration | [sunny-redis-python](https://github.com/YOUR_USERNAME/sunny-redis-python) |
+| 8 | Kafka | Event Streaming • Producers/Consumers | kafka-python • Avro • Streams • Connectors • Exactly-once • Security • Monitoring | [sunny-kafka-python](https://github.com/YOUR_USERNAME/sunny-kafka-python) |
+| 9 | CI/CD & DevOps | Automation • Containers • Pipelines | GitHub Actions • Docker • pytest • Kubernetes basics • Secret mgmt • GitOps | [sunny-python-cicd-devops](https://github.com/YOUR_USERNAME/sunny-python-cicd-devops) |
+| 10 | System Design & Architecture | Scalable Systems • Patterns • Case Studies | Microservices • CAP • Caching • Load balancing • Twitter/Netflix-style designs • TOGAF notes | [sunny-system-design-architecture](https://github.com/YOUR_USERNAME/sunny-system-design-architecture) |
 
 ---
 
-## 🚀 Flagship Portfolio Projects
+## 🛠️ Tech Stack & Skills Overview
 
-These are the **production-grade** / **resume-highlight** projects I've built after mastering the fundamentals.
+**Core**  
+Python 3.9+ • Type Hints • Asyncio • Pydantic • Decorators • Contextvars • Metaclasses
 
-| # | Project Name                          | Core Focus Areas                                      | Main Tech Stack                              | Status & Highlights                                 | Repo Link                                                                 |
-|---|---------------------------------------|-------------------------------------------------------|----------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|
-| 1 | Expense Tracker Pro                   | Full-stack finance app, auth, reporting               | FastAPI, SQLAlchemy, Pandas, JWT, Docker     | User auth + beautiful reports + deployment          | [→ View](https://github.com/sunny/Python-Expense-Tracker-App)            |
-| 2 | Real-time Stock Analyzer & Backtester | Live data fetching, analysis, strategy testing        | Pandas, yfinance, asyncio, Matplotlib        | Concurrency + optimization + testing                | [→ View](https://github.com/sunny/Python-Stock-Analyzer)                 |
-| 3 | Async Ethical Instagram Analyzer      | Public profile metrics & growth analysis              | aiohttp, BeautifulSoup, NumPy, pytest        | Async scraping + data analysis + ethics focus       | [→ View](https://github.com/sunny/Python-Instagram-Analyzer)             |
-| 4 | High-Performance Async Web Scraper    | Scalable scraper + real-time dashboard                | asyncio, aiohttp, FastAPI, SQLite            | Advanced concurrency + type hints + CI/CD           | [→ View](https://github.com/sunny/Python-Async-Web-Scraper)              |
-| 5 | Personal Finance Dashboard            | CLI + Web interface for tracking & insights           | Typer/Click (CLI), Streamlit, Pandas         | Modern CLI + interactive web + export features      | [→ View](https://github.com/sunny/Python-Personal-Finance-Dashboard)     |
+**Backend & Web**  
+FastAPI • Django • REST/GraphQL • SQLAlchemy • JWT/OAuth2 • Rate limiting • CORS
 
-More project ideas & planning → [Python-Real-World-Projects Hub](https://github.com/sunny/Python-Real-World-Projects)
+**Data**  
+Pandas • NumPy • Dask • PySpark • Polars • Great Expectations • Streamlit/Dash/Plotly
 
----
+**Streaming & Storage**  
+Kafka • Redis • RabbitMQ (light) • Parquet/ORC • S3/GCS/Azure Blob
 
-## 🛠️ Mini-Projects Showcase (Consistent Daily Practice)
+**DevOps & Cloud**  
+Docker • docker-compose • GitHub Actions • AWS/GCP/Azure SDKs • Terraform (Python) • Kubernetes basics
 
-These smaller projects demonstrate **progressive skill building** — from basic syntax to advanced concepts.
+**Security & Quality**  
+cryptography • secrets • Bandit • Safety • pytest • Hypothesis • Ruff/Black • pre-commit
 
-**Beginner Level**  
-- CLI Calculator  
-- Rock-Paper-Scissors Game  
-- Number Guessing Game  
-- Simple Password Generator  
-- Text-based Todo List (file persistence)
-
-**Intermediate Level**  
-- Student Management System (OOP + CSV/JSON)  
-- Weather Dashboard (API + basic concurrency)  
-- Sales Data Analyzer (Pandas + visualization)  
-- Basic Web Scraper (BeautifulSoup)  
-- Library Management System (OOP + file handling)
-
-**Advanced Level**  
-- Calculator with Full Test Suite (pytest)  
-- Simple Flask Todo Web App (DB + templates)  
-- Async File Downloader  
-- Performance Profiler Tool  
-- Packaged Mini CLI Tool (setuptools + entry points)
-
-Full collection & code → [Python-Mini-Projects](https://github.com/sunny/Python-Mini-Projects)
+**Architecture**  
+Microservices • Event-driven • CQRS • Clean/DDD • Scalability patterns • Observability
 
 ---
 
-## 🧰 Tech Stack & Skills Summary
-
-**Languages & Core**  
-Python 3.10+ • Type Hints • Modern OOP • Functional style • Decorators • Generators • Context Managers
-
-**Backend & APIs**  
-FastAPI • Flask • REST • SQLAlchemy • JWT • Docker basics
-
-**Data & Visualization**  
-Pandas • NumPy • Matplotlib • Seaborn • Basic EDA
-
-**Advanced Python**  
-asyncio • Threading • Multiprocessing • Metaclasses • Cython (exploring) • pytest • Coverage • Packaging (uv, hatch, setuptools)
-
-**Tools & Practices**  
-Git • GitHub Actions • Black • Ruff • Pre-commit • Virtual environments • PEP 8
-
----
-
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunny&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny&layout=compact&theme=radical&hide_border=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" width="55%"/>
 </p>
 
 ---
 
-## 💬 Let's Connect & Collaborate!
+## 💬 Let's Connect & Collaborate
 
-I'm open to **collaboration**, **freelance work**, or **full-time roles** in:
+Open to:
 
-- Backend development (FastAPI/Flask)
-- Data analysis & automation
-- Modern Python projects
-- Teaching / content creation
+- Senior Python / Data Engineering / Backend roles  
+- System design discussions & reviews  
+- Mentoring on pipelines, security, architecture  
+- Interesting open-source contributions
 
-→ [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-→ [Email](mailto:sunny.python.dev@gmail.com)  
-→ [Twitter/X](https://twitter.com/yourhandle)
+→ **LinkedIn** • **Email** • **Twitter/X**
 
-Thanks for stopping by!  
-Last updated: January 2026
+Thanks for visiting! Feel free to explore the linked repositories.  
+Last updated: February 2026
