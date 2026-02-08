@@ -15,10 +15,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Django-Expert-0C4B33?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Data%20Engineering-Advanced-1E90FF?style=flat-square" alt="Data Engineering"/>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker" alt="Docker"/>
+  <br><br>
   <img src="https://img.shields.io/badge/Kafka%20%7C%20Redis-Event%20Streaming-red?style=flat-square" alt="Kafka Redis"/>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/System%20Design-Architecture-blueviolet?style=flat-square" alt="System Design"/>
 </p>
 
