@@ -48,31 +48,32 @@ All repositories are open-source — feel free to ⭐, fork, learn from, or cont
 
 ### 📚 Main Learning & Project Repositories
 
-| # | Topic | Focus Areas | What's Inside | Repository Link |
-|---|-------|-------------|---------------|-----------------|
-| 1 | Core Python | Zero to Hero • Advanced Python • Best Practices | Syntax → Metaclasses • Decorators • Asyncio • Profiling • Packaging • Type Hints | [sunny-python-core](https://github.com/YOUR_USERNAME/sunny-python-core) |
-| 2 | Python Security | Secure Coding • Web & API Security | Input validation • JWT/OAuth • cryptography • Bandit/Safety • FastAPI/Django security | [sunny-python-security](https://github.com/YOUR_USERNAME/sunny-python-security) |
-| 3 | Data Science (No ML) | Data Wrangling • Analysis • Visualization | Pandas/NumPy • Time Series • Dask • Streamlit/Dash • ETL scripts • Ethics notes | [sunny-data-science-python](https://github.com/YOUR_USERNAME/sunny-data-science-python) |
-| 4 | Data Engineering | Scalable Pipelines • Big Data • Orchestration | PySpark • Airflow/Prefect • Kafka • Dask/Ray • Parquet • Data Quality • Monitoring | [sunny-data-engineering](https://github.com/YOUR_USERNAME/sunny-data-engineering) |
-| 5 | Data Structures & Algorithms | Python DSA • Problem Solving | Arrays → Graphs → DP → Heaps • Tries • LeetCode-style solutions • Complexity analysis | [sunny-dsa-python](https://github.com/YOUR_USERNAME/sunny-dsa-python) |
-| 6 | Cloud with Python | AWS / GCP / Azure SDKs | boto3 • google-cloud • azure-sdk • Serverless • IaC • Cost optimization • Multi-cloud | [sunny-python-cloud](https://github.com/YOUR_USERNAME/sunny-python-cloud) |
-| 7 | Redis | Caching • Queues • Pub/Sub • Scaling | redis-py • Patterns • Lua scripts • Clustering • FastAPI/ Django integration | [sunny-redis-python](https://github.com/YOUR_USERNAME/sunny-redis-python) |
-| 8 | Kafka | Event Streaming • Producers/Consumers | kafka-python • Avro • Streams • Connectors • Exactly-once • Security • Monitoring | [sunny-kafka-python](https://github.com/YOUR_USERNAME/sunny-kafka-python) |
-| 9 | CI/CD & DevOps | Automation • Containers • Pipelines | GitHub Actions • Docker • pytest • Kubernetes basics • Secret mgmt • GitOps | [sunny-python-cicd-devops](https://github.com/YOUR_USERNAME/sunny-python-cicd-devops) |
-| 10 | System Design & Architecture | Scalable Systems • Patterns • Case Studies | Microservices • CAP • Caching • Load balancing • Twitter/Netflix-style designs • TOGAF notes | [sunny-system-design-architecture](https://github.com/YOUR_USERNAME/sunny-system-design-architecture) |
+| #  | Topic                          | Focus Areas                                    | What's Inside                                                                                  | Repository Link                                                                 |
+|----|--------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| 1  | Core Python                    | Zero to Hero • Advanced Python • Best Practices | Syntax → Metaclasses • Decorators • Asyncio • Profiling • Packaging • Type Hints              | [https://github.com/sunnypy22/sunny-python-core)         |
+| 2  | Python Security                | Secure Coding • Web & API Security             | Input validation • JWT/OAuth • cryptography • Bandit/Safety • FastAPI/Django security         | [sunny-python-security](https://github.com/YOUR_USERNAME/sunny-python-security) |
+| 3  | FastAPI                        | Modern Async APIs • High-performance Backend   | REST/GraphQL APIs • Dependencies • Pydantic • Security • Background tasks • Testing • Deployment | [sunny-fastapi](https://github.com/YOUR_USERNAME/sunny-fastapi)                 |
+| 4  | Django                         | Full-stack Web Framework • Robust Applications | Models/Views/Templates • ORM • Authentication • Admin • Channels • REST Framework • Deployment | [sunny-django](https://github.com/YOUR_USERNAME/sunny-django)                   |
+| 5  | Data Science (No ML)           | Data Wrangling • Analysis • Visualization      | Pandas/NumPy • Time Series • Dask • Streamlit/Dash • ETL scripts • Ethics notes               | [sunny-data-science-python](https://github.com/YOUR_USERNAME/sunny-data-science-python) |
+| 6  | Data Engineering               | Scalable Pipelines • Big Data • Orchestration  | PySpark • Airflow/Prefect • Kafka • Dask/Ray • Parquet • Data Quality • Monitoring            | [sunny-data-engineering](https://github.com/YOUR_USERNAME/sunny-data-engineering) |
+| 7  | Data Structures & Algorithms   | Python DSA • Problem Solving                   | Arrays → Graphs → DP → Heaps • Tries • LeetCode-style solutions • Complexity analysis         | [sunny-dsa-python](https://github.com/YOUR_USERNAME/sunny-dsa-python)           |
+| 8  | Cloud with Python              | AWS / GCP / Azure SDKs                         | boto3 • google-cloud • azure-sdk • Serverless • IaC • Cost optimization • Multi-cloud        | [sunny-python-cloud](https://github.com/YOUR_USERNAME/sunny-python-cloud)       |
+| 9  | Redis                          | Caching • Queues • Pub/Sub • Scaling           | redis-py • Patterns • Lua scripts • Clustering • FastAPI/Django integration                  | [sunny-redis-python](https://github.com/YOUR_USERNAME/sunny-redis-python)       |
+| 10 | Kafka                          | Event Streaming • Producers/Consumers          | kafka-python • Avro • Streams • Connectors • Exactly-once • Security • Monitoring            | [sunny-kafka-python](https://github.com/YOUR_USERNAME/sunny-kafka-python)       |
+| 11 | CI/CD & DevOps                 | Automation • Containers • Pipelines            | GitHub Actions • Docker • pytest • Kubernetes basics • Secret mgmt • GitOps                  | [sunny-python-cicd-devops](https://github.com/YOUR_USERNAME/sunny-python-cicd-devops) |
+| 12 | System Design & Architecture   | Scalable Systems • Patterns • Case Studies     | Microservices • CAP • Caching • Load balancing • Twitter/Netflix-style designs • TOGAF notes | [sunny-system-design-architecture](https://github.com/YOUR_USERNAME/sunny-system-design-architecture) |
 
 ---
-
 ## 🛠️ Tech Stack & Skills Overview
 
 **Core**  
 Python 3.9+ • Type Hints • Asyncio • Pydantic • Decorators • Contextvars • Metaclasses
 
-**Backend & Web**  
-FastAPI • Django • REST/GraphQL • SQLAlchemy • JWT/OAuth2 • Rate limiting • CORS
+**Backend & Web Frameworks**  
+**FastAPI** • **Django** • Django REST Framework • REST/GraphQL • SQLAlchemy • JWT/OAuth2 • Rate limiting • CORS
 
 **Data**  
-Pandas • NumPy • Dask • PySpark • Polars • Great Expectations • Streamlit/Dash/Plotly
+Pandas • NumPy • Dask • PySpark • Polars • Great Expectations • Streamlit • Dash • Plotly
 
 **Streaming & Storage**  
 Kafka • Redis • RabbitMQ (light) • Parquet/ORC • S3/GCS/Azure Blob
