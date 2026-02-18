@@ -53,7 +53,7 @@ It links to dedicated repositories covering everything from fundamentals → sen
 
 All repositories are open-source — feel free to ⭐, fork, learn from, or contribute!
 
-### 📚 Main Learning & Project Repositories
+### 📚 Learning & Project Repositories
 
 | #  | Topic                          | Focus Areas                                    | What's Inside                                                                                  | Repository Link                                                                 |
 |----|--------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
