@@ -69,6 +69,11 @@ All repositories are open-source — feel free to ⭐, fork, learn from, or cont
 | 10 | Kafka                          | Event Streaming • Producers/Consumers          | kafka-python • Avro • Streams • Connectors • Exactly-once • Security • Monitoring            | [sunny-kafka-python](https://github.com/YOUR_USERNAME/sunny-kafka-python)       |
 | 11 | CI/CD & DevOps                 | Automation • Containers • Pipelines            | GitHub Actions • Docker • pytest • Kubernetes basics • Secret mgmt • GitOps                  | [sunny-python-cicd-devops](https://github.com/YOUR_USERNAME/sunny-python-cicd-devops) |
 | 12 | System Design & Architecture   | Scalable Systems • Patterns • Case Studies     | Microservices • CAP • Caching • Load balancing • Twitter/Netflix-style designs • TOGAF notes | [sunny-system-design-architecture](https://github.com/YOUR_USERNAME/sunny-system-design-architecture) |
+| 13 | Docker   |      |  |  |
+| 14 | Machine Learning   |      |  |  |
+| 15 | Deep Learning   |      |  |  |
+| 16 | NLP   |      |  |  |
+
 
 ---
 ## 🛠️ Tech Stack & Skills Overview
